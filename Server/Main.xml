@@ -3,3 +3,9 @@
   name="openserverx-ultra-mega-hiper-gigantogravitacionalmaximotecnologicouniversalinterplanetariodistribuidocloudsupercomputinginfinitoserversplatform.com"
   ServersSite="https://www.openserverx/server/Main.xml/Main/AllServers/"
   />
+<!-- geral --!>
+<GroupId>com.OpenServerX.api</GroupId>
+import="openserverx*.json"
+ApiTestSite="openserverx.api/Test.js.io"
+SizeAPI="size=DPs"
+import="Servers/"
